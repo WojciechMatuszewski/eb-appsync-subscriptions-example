@@ -1,0 +1,8 @@
+[
+  {
+    "EventBusName": "XXX",
+    "Source": "orders.system",
+    "DetailType": "Order Status Update",
+    "Detail": "{ \"order-id\": \"123\", \"status\": \"SHIPPED\", \"prev-status\": \"IN_PROGRESS\" }"
+  }
+]
